@@ -1,5 +1,5 @@
 # Cosmic-Trials-v0.9.0
-Made in Pygame, My First Python Project involving graphics! im 13 BTW X ;)
+Made in Pygame, My First Python Project involving graphics! im 13 BTW XD ;)
 Packed with basic game features!
  - Collison
  - Menu
