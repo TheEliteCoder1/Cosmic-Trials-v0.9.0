@@ -16,4 +16,8 @@ I will be sure to release a new version of this game soon!
 Features will include:
 - Enemies with bullets
 - High score count
-- Healther Bar and etc.
+- Health Bar and etc.
+- Optomiziations and cleaning code :)
+# Next Release:
+v1.0.4
+
