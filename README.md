@@ -10,6 +10,8 @@ My First Game made in Pygame :)
  - Use mouse to allow the lightning to hover over coins and gems to increase score. 
  - Dodge Objects
  - Go to the same row as the objects, for bullets to shoot them and increase score.
+ --
+ 
  # Gems = 20+ score
  # Coins = 10+ score
  # Shotting Objects = 5+ score 
