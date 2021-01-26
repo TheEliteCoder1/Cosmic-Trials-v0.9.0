@@ -17,5 +17,10 @@ My First Game made in Pygame :)
  - Highscore counter
  - Healthbar
  - Cleaning and optimizing code
+# In-Game Pics!:
+![Menu](https://github.com/[Apple-Pies]/[Cosmic-Trials-v0.9.0]/blob/[main]/bg.png?raw=true)
+
+
+
 # Next Release:
 v1.0.4
