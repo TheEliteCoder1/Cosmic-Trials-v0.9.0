@@ -17,10 +17,5 @@ My First Game made in Pygame :)
  - Highscore counter
  - Healthbar
  - Cleaning and optimizing code
- # In-Game Pics:
- 
- # Starting Screen : 
- ![Menu]()
- 
 # Next Release:
 v1.0.4
