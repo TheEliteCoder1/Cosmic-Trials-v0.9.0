@@ -18,7 +18,7 @@ My First Game made in Pygame :)
  - Healthbar
  - Cleaning and optimizing code
 # In-Game Pics!:
-![](https://github.com/Apple-Pies/Cosmic-Trials-v0.9.0/blob/main/bg.png?raw=true)
+https://github.com/Apple-Pies/Cosmic-Trials-v0.9.0/blob/main/bg.png?raw=true
 
 
 
