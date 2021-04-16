@@ -6,7 +6,7 @@ My First Game made in Pygame :)
  - Score
  - Player
  
- # CREDITS: DaFluffyPotato
+ # CREDITS: Thanks to DaFluffyPotato, I was able to have lightning following along my cursor position in the game!
  # Check out his awesome youtube channel here:
  https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA
 # How to play:
