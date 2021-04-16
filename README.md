@@ -6,7 +6,7 @@ My First Game made in Pygame :)
  - Score
  - Player
 # How to play:
- - Use 'WASD' to controll player up, down, left and right.
+ - Use 'WASD' to control player up, down, left and right.
  - Use mouse to allow the lightning to hover over coins and gems to increase score. 
  - Dodge Objects
  - Go to the same row as the objects, for bullets to shoot them and increase score.
