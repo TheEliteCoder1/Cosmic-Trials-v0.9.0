@@ -5,8 +5,9 @@ My First Game made in Pygame :)
  - Objects
  - Score
  - Player
- #CREDITS: DaFluffyPotato
- #Check out his awesome youtube channel here:
+ 
+ # CREDITS: DaFluffyPotato
+ # Check out his awesome youtube channel here:
  https://www.youtube.com/channel/UCYNrBrBOgTfHswcz2DdZQFA
 # How to play:
  - Use 'WASD' to control player up, down, left and right.
