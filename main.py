@@ -1,6 +1,6 @@
 '''
 Cosmic Trials Game:
-Author: Raphael Julian The Self-taught programmer
+Author: Raphael Julian
 Version: 0.9.0
 '''
 
